@@ -40,7 +40,6 @@ CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 CTestTestfile.cmake
-Makefile
 
 # --- Python virtual envs (in case you install gcovr locally) ---
 venv/
